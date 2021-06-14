@@ -1,22 +1,21 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"Claire Boals",
+    "description":"I'm a software engineer and web developer who recently graduated from Tufts University, B.S. Computer Science",
+    "image":"profilepic.png",
+    "bio":"I am a developer with experience across the stack on individual and team projects, and I have a passion for learning new technologies. I love analyzing and solving problems, iterating on and improving software, and most of all, creating new things!",
+    "contactmessage":"Want to get in contact? Shoot me a message!",
+    "email": "claireboals@gmail.com",
+    "phone": "901-569-9336",
+    "github":"https://github.com/claireboals",
+    "project":"/resume.pdf",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Boston",
+      "state":"MA",
+      "zip": "02476"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"/resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -46,63 +45,71 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":" ",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Tufts University",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"May 2020",
+        "description":"Relevant Coursework: Data Structures, Algorithms, Web Programming, Computation Theory, Object-Oriented GUI, Machine Structure & Assembly Language"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Freelance Web Designer and Consultant",
+        "title":"Self-Employed ",
+        "years":"December 2020 - June 2021",
+        "description":"Analyzed client needs to design and create websites using Shopify and WordPress, identified and instituted back-end tools to assist and track growth, effectively communicated all stages of development with clients at weekly meetings, provided support and educational demonstrations to assist clients in maintaining websites post-contract."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Design Studio Assistant",
+        "title":"Tisch Library Digital Design Studio ",
+        "years":"September 2018 - May 2020",
+        "description":"Troubleshot and solved hardware and software issues, assisted patrons with designing and printing large format posters, maintained computer lab space and recording studio."
+      },
+      {
+        "company":"Technology Support Representative",
+        "title":"Tufts Technology Services ",
+        "years":"May 2017 - August 2017",
+        "description":"Diagnosed, troubleshot, and solved hardware and software-related issues for customers, communicated solutions thoroughly to each customer, documented all issues and resolutions in detail, escalated issues when necessary."
       }
     ],
     "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"React",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML",
+        "level":"60%"
+      },
       {
         "name":"Python",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
+        "name":"Ruby",
         "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
       }
     ]
   },
@@ -131,54 +138,6 @@
         "category":"A React based resume website template",
         "image":"04.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
