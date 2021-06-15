@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Claire Boals",
-    "description":"I'm a software engineer and web developer who recently graduated from Tufts University, B.S. Computer Science",
+    "description":"I'm a software engineer and web developer, recently graduated from Tufts University, B.S. Computer Science",
     "image":"profilepic.png",
-    "bio":"I am a developer with experience across the stack on individual and team projects, and I have a passion for learning new technologies. I love analyzing and solving problems, iterating on and improving software, and most of all, creating new things!",
+    "bio":"I am a developer with experience across the stack on individual and team projects, with mostly in React, and I have a passion for learning new technologies. I love analyzing and solving problems, iterating on and improving software, and most of all, creating new things!",
     "contactmessage":"Want to get in contact? Shoot me a message!",
     "email": "claireboals@gmail.com",
     "phone": "901-569-9336",
@@ -18,28 +18,13 @@
     "resumedownload":"/resume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/claireboals/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/claireboals",
         "className":"fa fa-github"
       }
     ]
@@ -92,8 +77,16 @@
         "level":"70%"
       },
       {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
         "name":"React",
         "level":"70%"
+      },
+      {
+        "name":"Hugo",
+        "level":"60%"
       },
       {
         "name":"CSS",
@@ -101,10 +94,6 @@
       },
       {
         "name":"HTML",
-        "level":"60%"
-      },
-      {
-        "name":"Python",
         "level":"60%"
       },
       {
@@ -116,28 +105,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"MBTA Map",
+        "category":"Interactive MBTA map to show updated arrival/departure times.",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/claireboals/interactive-mbta-map"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"What's That Song? - Lyric Search",
+        "category":"(offline now) Lyric search engine that returns playable Spotify links.",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/claireboals/interactive-mbta-map"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Arith - Image Compressor",
+        "category":"Program written in C that compresses images by packing and unpacking binary data.",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/claireboals/arith"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Personal Blog - Powered by Hugo",
+        "category":"My personal blog, written using Hugo framework.",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/claireboals/blog"
       }
     ]
   }

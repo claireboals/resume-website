@@ -13,7 +13,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-        <ParticlesBg type="circle" bg={true} />
+        <ParticlesBg type="fountain" bg={true} />
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -70,7 +70,7 @@ class Header extends Component {
                 <a href={project} className="button btn project-btn" target="_blank" rel="noreferrer">
                   <i className="fa fa-book"></i>Resume
                 </a>
-                <a href={github} className="button btn github-btn">
+                <a href={github} className="button btn github-btn" target="_blank" rel="noreferrer">
                   <i className="fa fa-github"></i>Github
                 </a>
               </ul>
